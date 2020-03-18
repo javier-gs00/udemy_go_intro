@@ -20,6 +20,4 @@ func main() {
 			fmt.Printf("%v is odd", number)
 		}
 	}
-
-	// fmt.Println(numbers)
 }
